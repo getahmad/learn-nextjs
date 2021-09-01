@@ -1,0 +1,13 @@
+.header {
+  background-color: #eaeaea;
+  padding: 8px;
+}
+
+.menu {
+  display: flex;
+  justify-content: flex-end;
+}
+.menu li {
+  list-style: none;
+  padding: 0 10px;
+}
